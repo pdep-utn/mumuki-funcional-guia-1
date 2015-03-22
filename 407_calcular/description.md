@@ -1,6 +1,7 @@
-Definir la función **calcular**, que recibe una tupla de 2 elementos, si el primer
-elemento es par lo duplica, sino lo deja como esta y con el segundo elemento en caso de
-ser impar le suma 1 y si no deja esté último como esta.
+Definir la función `calcular`, que recibe una tupla de 2 elementos, y devuelve otra tupla según las siguientes reglas:
+
+* si el primer elemento es par lo duplica; si no lo deja como está
+* si el segundo elemento es impar le suma 1; si no deja como está
 
 ```haskell
 Main> calcular (4,5)
