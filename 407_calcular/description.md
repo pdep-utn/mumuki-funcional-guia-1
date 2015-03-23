@@ -11,4 +11,3 @@ Main> calcular (3,7)
 (3,8)
 ```
 
-Nota: Resolverlo utilizando aplicación parcial y composición. 
