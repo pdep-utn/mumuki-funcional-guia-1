@@ -10,8 +10,8 @@ describe "notas" $ do
     it "aprobo (5,4) == Si aprobo" $ do
       aprobo (5,4) `shouldBe` True
 	
-	it "aprobo (3,10) == No aprobo" $ do
-	  aprobo (3,10) `shouldBe` False
+    it "aprobo (3,10) == No aprobo" $ do
+	    aprobo (3,10) `shouldBe` False
 
   describe "promociono" $ do
     it "promociono (7,8) == Si promociono" $ do
