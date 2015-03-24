@@ -5,5 +5,6 @@ describe "incrementMCuadradoN" $ do
   it "incrementMCuadradoN 6 25 == 61" $ do
     incrementMCuadradoN 6 25 `shouldBe` 61
 	
-  it "incrementMCuadradoN -5 4 == 29" $ do
-    incrementMCuadradoN -5 4 `shouldBe` 29
+	it "incrementMCuadradoN -5 4 == 29" $ do
+    incrementMCuadradoN (-5) 4 `shouldBe` 29
+ 
