@@ -12,5 +12,3 @@ Para esta situación:
 * Definir la función ```pesoPino```, recibe la altura de un pino y devuelve su peso.
 * Definir la función ```esPesoUtil```, recibe un peso en kg y response si un pino de ese peso le sirve a la fábrica
 * Definir la función ```sirvePino```, recibe la altura de un pino y response si un pino de ese peso le sirve a la fábrica.
- 
-**Sugerencia**: usar composición en la definición.
