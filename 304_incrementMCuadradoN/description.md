@@ -7,5 +7,3 @@ Main> incrementMCuadradoN 3 2
 ```
 
 Incrementa en 2 al cuadrado de 3, da como resultado 11.
-
-Nota: Resolverlo utilizando aplicación parcial y composición.
