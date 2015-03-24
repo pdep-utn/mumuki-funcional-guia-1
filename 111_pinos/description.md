@@ -10,5 +10,5 @@ Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven �
 Para esta situación:
 
 * Definir la función ```pesoPino```, recibe la altura de un pino y devuelve su peso.
-* Definir la función ```esPesoUtil```, recibe un peso en kg y response si un pino de ese peso le sirve a la fábrica
-* Definir la función ```sirvePino```, recibe la altura de un pino y response si un pino de ese peso le sirve a la fábrica.
+* Definir la función ```esPesoUtil```, recibe un peso en kg y responde si un pino de ese peso le sirve a la fábrica
+* Definir la función ```sirvePino```, recibe la altura de un pino y responde si un pino de ese peso le sirve a la fábrica.
