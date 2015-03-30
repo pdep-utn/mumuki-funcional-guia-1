@@ -2,7 +2,7 @@ expectations:
  - inspection: HasBinding
    binding: dispersion
  - inspection: HasBinding
-  binding: diasParejos
+   binding: diasParejos
  - inspection: HasBinding
    binding: diasNormales
  - inspection: HasBinding
