@@ -1,0 +1,5 @@
+expectations:
+ - inspection: HasBinding
+   binding: esMayorDeEdad
+ - inspection: HasComposition
+   binding: esMayorDeEdad
