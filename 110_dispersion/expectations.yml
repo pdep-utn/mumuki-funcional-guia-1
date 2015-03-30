@@ -1,0 +1,9 @@
+expectations: 
+ - inspection: HasBinding
+   binding: dispersion
+ - inspection: HasBinding
+  binding: diasParejos
+ - inspection: HasBinding
+   binding: diasNormales
+ - inspection: HasBinding
+   binding: diasLocos
