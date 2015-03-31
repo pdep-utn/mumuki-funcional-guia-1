@@ -8,12 +8,14 @@ A partir de esto:
 * Definir la función **aprobo**, recibe un par e indica si una persona que se sacó esas notas aprueba. Usar **esNotaBochazo**.
 * Definir la función **promociono**, que indica si promocionó, para eso tiene las dos notas tienen que sumar al menos 14 y además haberse sacado 6 en cada parcial.
 
-<!--
-* Escribir una consulta que dado un par indica si aprobó el primer parcial, usando **esNotaBochazo** y composición. La consulta tiene que tener esta forma (p.ej. para
-el par de notas (5,8)) 
-
-```haskell
-Main> (...algo...) (5,8) 
+Ejemplo:
 
 ```
--->
+> aprobo (2, 7)
+False
+```
+
+```
+> aprobo (6, 5)
+True
+```
