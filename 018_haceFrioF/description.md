@@ -7,4 +7,4 @@ Main> haceFrioF 50
 False
 ```
 
-Asumir que existe una función `fahrToCelsius` que convierte una temperatura Fahrenheit en Celsius
+**Nota**: Asumir que ya existe una función `fahrToCelsius` que convierte una temperatura Fahrenheit en Celsius. **Usarla sin definirla**
