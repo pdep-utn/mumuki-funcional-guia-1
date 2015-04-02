@@ -6,4 +6,4 @@ Main> esMayorDeEdad(juan,18)
 False
 ```
 
-Nota: Definir la función utilizando aplicación parcial y composición.
+**Nota**: Definir la función utilizando aplicación parcial y composición.

@@ -1,0 +1,7 @@
+expectations:
+  - inspection: HasBinding
+    binding: haceFrioF
+  - inspection: HasUsage:fahrToCelsius
+    binding: haceFrioF
+  - inspection: Not:HasBinding
+    binding: fahrToCelsius

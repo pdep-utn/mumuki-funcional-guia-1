@@ -1,3 +1,7 @@
 expectations:
  - inspection: HasBinding
    binding: esBisiesto
+ - inspection: HasUsage:esMultiploDe
+   binding: esBisiesto
+ - inspection: Not:HasBinding
+   binding: esMultiploDe
