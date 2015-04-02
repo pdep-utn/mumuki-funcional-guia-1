@@ -6,4 +6,4 @@ Main> inversaRaizCuadrada 4
 0.5
 ```
 
-Nota: Resolverlo utilizando la función **inversa** , **sqrt** y composición.
+**Nota**: Resolverlo utilizando la función **inversa** , **sqrt** y composición.
