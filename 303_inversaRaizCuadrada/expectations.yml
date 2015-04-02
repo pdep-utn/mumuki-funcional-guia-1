@@ -1,0 +1,11 @@
+- expectations:
+ - Inspection: HasBinding
+   Binding:  inversaRaizCuadrada
+ - Inspection: HasComposition
+   Binding: inversaRaizCuadrada
+ - Inspection: HasUsage:sqrt
+   Binding: inversaRaizCuadrada
+ - Inspection: HasUsage:inversa
+   Binding: inversaRaizCuadrada
+ - Inspection: Not:HasBinding
+   Binding: inversa
