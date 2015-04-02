@@ -1,4 +1,4 @@
-- expectations:
+expectations:
  - Inspection: HasBinding
    Binding:  inversaRaizCuadrada
  - Inspection: HasComposition
