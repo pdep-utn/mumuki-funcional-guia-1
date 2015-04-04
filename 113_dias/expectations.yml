@@ -15,5 +15,5 @@ expectations:
    binding: diasNormales
  - inspection: HasUsage:diasLocos
    binding: diasNormales
- - inspection: HasUsage:||
+ - inspection: HasUsage:&&
    binding: diasNormales
