@@ -4,11 +4,9 @@ Contamos también con una funcion `dispersion`, que dado tres numeros nos devuel
 
 Definir las siguientes funciones que reciben los valores de los tres días, y nos responden si son días parejos, locos o normales:
 
-* `diasParejos`: son días parejos si la dispersión es chica
-* `diasLocos`: son días locos si la dispersión es grande
+* `diasParejos`: son días parejos si la dispersión es chica (menos de 30 cm)
+* `diasLocos`: son días locos si la dispersión es grande (más de un metro)
 * `diasNormales`, son días normales si no son ni parejos ni locos.
-
-Una dispersión se considera chica si es de menos de 30 cm, y grande si es de más de un metro.
 
 Ejemplo:
 
