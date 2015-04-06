@@ -1,1 +1,7 @@
-﻿Desarrollar una función **esMultiploDe**/2, que dice si un número es múltipo de dos (que sorpresa, ¡eh!) utilizando aplicación parcial y composición.
+Definir la función ```esMultiploDe/2```, que dados dos números devuelve si el primero es múltiplo del segundo (que sorpresa, ¡eh!), **utilizando aplicación parcial y composición**. Ejemplo:
+
+```
+Main> esMultiploDe 12 3
+True
+```
+
