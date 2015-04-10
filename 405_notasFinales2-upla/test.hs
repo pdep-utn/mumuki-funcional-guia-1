@@ -10,5 +10,5 @@ describe "notasFinales2-upla" $ do
     it "recuperoDeGusto ((2,8),(3,10)) == False" $ do
       recuperoDeGusto ((2,8),(3,10)) `shouldBe` False
 
-	it "recuperoDeGusto ((6,8),(8,10)) == True" $ do
-	  recuperoDeGusto ((6,8),(8,10)) `shouldBe` True
+    it "recuperoDeGusto ((6,8),(8,10)) == True" $ do
+       recuperoDeGusto ((6,8),(8,10)) `shouldBe` True
