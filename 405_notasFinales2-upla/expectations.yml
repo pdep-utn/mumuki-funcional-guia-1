@@ -3,7 +3,3 @@ expectations:
    binding: notasFinales
  - inspection: HasBinding
    binding: recuperaDeGusto
- - inspection: HasUsage:snd
-   binding: notasFinales
- - inspection: HasUsage:fst
-   binding: notasFinales
