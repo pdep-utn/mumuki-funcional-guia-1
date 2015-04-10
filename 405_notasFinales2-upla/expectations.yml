@@ -2,4 +2,4 @@ expectations:
  - inspection: HasBinding
    binding: notasFinales
  - inspection: HasBinding
-   binding: recuperaDeGusto
+   binding: recuperoDeGusto
