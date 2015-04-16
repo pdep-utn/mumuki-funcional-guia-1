@@ -5,5 +5,5 @@ expectations:
    binding: esBisiesto
  - inspection: Not:HasBinding
    binding: esMultiploDe
- - inspection: Not:HasGuards
+ - inspection: Not:HasConditionals
    binding: esBisiesto
