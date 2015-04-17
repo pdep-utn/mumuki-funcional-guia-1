@@ -1,4 +1,4 @@
-En una plantación de pinos, de cada árbol se conoce la altura expresada en cm. El peso de un pino se puede calcular a partir de la altura así:
+En una plantación de pinos, de cada árbol se conoce la altura expresada en **metros**. El peso de un pino se puede calcular a partir de la altura así:
 
 * 3 kg x cm hasta 3 metros,
 * 2 kg x cm arriba de los 3 metros.
