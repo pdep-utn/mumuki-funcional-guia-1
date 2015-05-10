@@ -1,5 +1,4 @@
-﻿Definir una función **triple**, que invocando a la función con un número cualquiera me
-devuelva el triple del mismo.
+﻿Definir una función **triple**, que al aplicarla con un número cualquiera me devuelva el triple del mismo.
 
 ```haskell
 Main> triple 5
