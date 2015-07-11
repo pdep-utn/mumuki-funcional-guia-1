@@ -1,0 +1,7 @@
+expectations:
+  - inspection: HasBinding
+    binding: pesoPino
+  - inspection: HasBinding
+    binding: pesoUtil
+  - inspection: HasBinding
+    binding: sirvePino
