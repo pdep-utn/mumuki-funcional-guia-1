@@ -2,6 +2,6 @@ expectations:
   - inspection: HasBinding
     binding: pesoPino
   - inspection: HasBinding
-    binding: pesoUtil
+    binding: esPesoUtil
   - inspection: HasBinding
     binding: sirvePino
