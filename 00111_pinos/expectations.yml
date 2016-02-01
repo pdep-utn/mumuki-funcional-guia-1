@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: sirvePino
   inspection: HasBinding
+- binding: sirvePino
+  inspection: HasComposition
