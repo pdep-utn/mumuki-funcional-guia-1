@@ -6,5 +6,7 @@ expectations:
   inspection: HasUsage:fahrToCelsius
 - binding: fahrToCelsius
   inspection: Not:HasBinding
+- binding: haceFrioF
+  inspection: HasComposition
 - binding: ''
   inspection: ''
