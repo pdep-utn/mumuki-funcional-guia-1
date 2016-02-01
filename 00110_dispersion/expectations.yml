@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: dispersion
+  inspection: HasBinding
+- binding: dispersion
+  inspection: Not:HasGuards

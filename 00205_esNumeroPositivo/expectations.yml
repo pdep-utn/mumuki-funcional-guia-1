@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esNumeroPositivo
+  inspection: HasBinding
+- binding: esNumeroPositivo
+  inspection: Not:HasGuards

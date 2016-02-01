@@ -1,0 +1,20 @@
+---
+expectations:
+- binding: dispersion
+  inspection: Not:HasBinding
+- binding: diasParejos
+  inspection: HasBinding
+- binding: diasNormales
+  inspection: HasBinding
+- binding: diasLocos
+  inspection: HasBinding
+- binding: diasLocos
+  inspection: HasUsage:dispersion
+- binding: diasParejos
+  inspection: HasUsage:dispersion
+- binding: diasNormales
+  inspection: HasUsage:diasParejos
+- binding: diasNormales
+  inspection: HasUsage:diasLocos
+- binding: diasNormales
+  inspection: HasUsage:&&

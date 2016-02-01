@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: pesoPino
+  inspection: HasBinding
+- binding: esPesoUtil
+  inspection: HasBinding
+- binding: sirvePino
+  inspection: HasBinding

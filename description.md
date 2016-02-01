@@ -1,2 +1,3 @@
-Ejercicios de basicos de aritmética y composición en Haskell, basados en la guía 1 de [PdeP de UTN FRBA](http://pdep.com.ar/material/guas-de-ejercicios)
+Recién tuvimos una primera aproximación al mundo funcional: variables, valores y funciones. 
 
+Pero ninguna introducción está completa si no practicamos un poco. ¡Allá vamos!
