@@ -3,4 +3,4 @@ expectations:
 - binding: esMultiploDeTres
   inspection: HasBinding
 - binding: esMultiploDeTres
-  inspection: Not:HasConditionals
+  inspection: Not:HasConditional
