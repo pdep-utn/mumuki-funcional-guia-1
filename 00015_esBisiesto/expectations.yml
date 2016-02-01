@@ -8,5 +8,3 @@ expectations:
   inspection: Not:HasBinding
 - binding: esBisiesto
   inspection: Not:HasConditional
-- binding: ''
-  inspection: ''
