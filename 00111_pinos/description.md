@@ -3,7 +3,7 @@ En una plantación de pinos, de cada árbol se conoce la altura expresada en **m
 * 3 kg x cm hasta 3 metros,
 * 2 kg x cm arriba de los 3 metros.
 
-Por ejemplo: 2 metros -> 600 kg, 5 metros -> 1300 kg.
+Por ejemplo: 2 metros -> 600 kg, 5 metros -> 1300 kg (porque los primeros 3 metros pesan 900 kg y los siguientes 2 pesan los 400 restantes).
 
 Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven árboles de entre 400 y 1000 kilos, un pino fuera de este rango no le sirve a la fábrica.
 
