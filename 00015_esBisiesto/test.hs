@@ -9,6 +9,9 @@ describe "esBisiesto" $ do
 
   it "1996 es bisiesto" $ do
     esBisiesto 1996 `shouldBe` True
+    
+  it "2000 es bisiesto" $ do
+    esBisiesto 2000 `shouldBe` True
 
   it "100 no es bisiesto" $ do
     esBisiesto 100 `shouldBe` False
