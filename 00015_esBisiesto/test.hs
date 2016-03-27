@@ -12,6 +12,9 @@ describe "esBisiesto" $ do
     
   it "2000 es bisiesto" $ do
     esBisiesto 2000 `shouldBe` True
+    
+  it "800 es bisiesto" $ do
+    esBisiesto 800 `shouldBe` True
 
   it "100 no es bisiesto" $ do
     esBisiesto 100 `shouldBe` False
