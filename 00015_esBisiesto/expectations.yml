@@ -10,3 +10,5 @@ expectations:
   inspection: Not:HasConditional
 - binding: esBisiesto
   inspection: Not:HasUsage:mod
+- binding: esBisiesto
+  inspection: Not:HasUsage:rem
