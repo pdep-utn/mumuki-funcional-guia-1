@@ -2,7 +2,7 @@ Definir la función ```mcm/2``` que devuelva el mínimo común múltiplo entre d
 de acuerdo a esta fórmula:
 
 ```
-mcm(a, b) = (a * b) / (mcd(a, b))
+mcm a b = (a * b) / (mcd(a, b))
 ```
 
 Más información: [Mínimo Común Múltiplo](http://es.wikipedia.org/wiki/M%C3%ADnimo_com%C3%BAn_m%C3%BAltiplo)
