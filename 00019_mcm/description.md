@@ -1,5 +1,9 @@
 Definir la función ```mcm/2``` que devuelva el mínimo común múltiplo entre dos números,
-de acuerdo a esta fórmula matemática: **mcm(a, b) = (a * b) / (mcd(a, b))**
+de acuerdo a esta fórmula matemática: 
+
+**mcm(a, b) = (a * b) / (mcd(a, b))**
+
+Por ejemplo:
 
 ```
 ム mcm  43 12
