@@ -1,6 +1,6 @@
 describe "esCuadradoPerfecto" $ do
   it "0 es cuadrado perfecto" $ do
-    esCuadradoPerfecto 1 `shouldBe` True
+    esCuadradoPerfecto 0 `shouldBe` True
 
   it "1 es cuadrado perfecto" $ do
     esCuadradoPerfecto 1 `shouldBe` True
