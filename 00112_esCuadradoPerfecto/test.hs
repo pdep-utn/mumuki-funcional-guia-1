@@ -1,4 +1,7 @@
 describe "esCuadradoPerfecto" $ do
+  it "0 es cuadrado perfecto" $ do
+    esCuadradoPerfecto 1 `shouldBe` True
+
   it "1 es cuadrado perfecto" $ do
     esCuadradoPerfecto 1 `shouldBe` True
 
@@ -10,6 +13,9 @@ describe "esCuadradoPerfecto" $ do
 
   it "81 es cuadrado perfecto" $ do
     esCuadradoPerfecto 81 `shouldBe` True
+
+  it "2 NO es cuadrado perfecto" $ do
+    esCuadradoPerfecto 2 `shouldBe` False
 
   it "82 NO es cuadrado perfecto" $ do
     esCuadradoPerfecto 82 `shouldBe` False
