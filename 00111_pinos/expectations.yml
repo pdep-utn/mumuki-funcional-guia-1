@@ -10,3 +10,5 @@ expectations:
   inspection: HasComposition
 - binding: pesoPino
   inspection: Not:HasConditional
+- binding: sirvePino
+  inspection: Not:HasConditional
