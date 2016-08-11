@@ -1,9 +1,11 @@
-**Ayuda 1**: usar una función auxiliar, tal vez de dos parámetros. Pensar que:
+Hay algunas funciones que te pueden ayudar acá: 
 
-* el primer cuadrado perfecto es 0
-* para llegar al 2do (1) sumo 1
-* para llegar al 3ro (4) sumo 3
-* para llegar al siguiente (9) sumo 5
-* después sumo 7, 9, 11 etc..
+* `sqrt`: devuelve la raiz cuadrada de un número
+* `decimalPart`: devuelve la parte decimal de un número. Por ejemplo: 
 
-**Ayuda 2**: La recursividad puede ayudar acá
+```haskell
+ム decimalPart 10
+0.0
+ム decimalPart 2.5
+0.5
+```
