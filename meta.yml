@@ -3,9 +3,9 @@ name: Práctica Valores y Funciones
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: haskell
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 11
 - 12

@@ -16,5 +16,3 @@ expectations:
   inspection: HasUsage:diasParejos
 - binding: diasNormales
   inspection: HasUsage:diasLocos
-- binding: diasNormales
-  inspection: HasUsage:&&
