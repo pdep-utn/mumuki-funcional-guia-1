@@ -29,3 +29,6 @@ describe "dias" $ do
   it "10, 10 y 100 son dias normales" $ do
     diasNormales 10 10 100  `shouldBe` True
 
+  it "1, 2 y 1 son dias normales" $ do
+    diasNormales 1 2 1  `shouldBe` True
+
