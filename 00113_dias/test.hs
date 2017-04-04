@@ -27,5 +27,5 @@ describe "dias" $ do
     diasParejos 10 20 60  `shouldBe` False
 
   it "10, 10 y 100 son dias normales" $ do
-    diasParejos 10 10 100  `shouldBe` True
+    diasNormales 10 10 100  `shouldBe` True
 
