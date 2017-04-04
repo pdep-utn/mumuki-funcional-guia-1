@@ -25,6 +25,6 @@ describe "dias" $ do
 
   it "10, 20 y 60 NO son dias parejos" $ do
     diasParejos 10 20 60  `shouldBe` False
-    
+
   it "1, 2 y 3 NO son dias parejos" $ do
     diasParejos 1 2 3  `shouldBe` False
