@@ -2,3 +2,5 @@
 expectations:
 - binding: cubo
   inspection: HasBinding
+- binding: "*"
+  inspection: Except:HasRedundantParameters
