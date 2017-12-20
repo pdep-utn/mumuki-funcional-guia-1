@@ -13,4 +13,4 @@ expectations:
 - binding: sirvePino
   inspection: Not:HasConditional
 - binding: "*"
-  inspection: Except:HasRedundantParameters
+  inspection: Except:HasRedundantParameter
