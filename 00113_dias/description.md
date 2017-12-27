@@ -2,7 +2,7 @@ Trabajamos con tres números que representan el nivel de un río en tres días c
 
 Contamos también con una funcion `dispersion`, que dado tres numeros nos devuelve la dispersión. **No hay que definirla**.
 
-Definir las siguientes funciones que reciben los valores de los tres días, y nos responden si son días parejos, locos o normales:
+Definí las siguientes funciones que reciben los valores de los tres días, y nos responden si son días parejos, locos o normales:
 
 * `diasParejos`: son días parejos si la dispersión es chica (menos de 30 cm)
 * `diasLocos`: son días locos si la dispersión es grande (más de un metro)
