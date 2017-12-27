@@ -1,4 +1,4 @@
-Definir la función ```esBisiesto/1```, que indica si un año es bisiesto.
+Definí la función ```esBisiesto/1```, que indica si un año es bisiesto.
 
 Un año es bisiesto si:
 
