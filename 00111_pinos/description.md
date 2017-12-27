@@ -7,8 +7,8 @@ Por ejemplo: 2 metros -> 600 kg, 5 metros -> 1300 kg (porque los primeros 3 metr
 
 Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven árboles de entre 400 y 1000 kilos, un pino fuera de este rango no le sirve a la fábrica.
 
-> * Definir la función ```pesoPino```, recibe la altura de un pino y devuelve su peso.
-> * Definir la función ```esPesoUtil```, recibe un peso en kg y  responde si un pino de ese peso le sirve a la fábrica
-> * Definir la función ```sirvePino```, recibe la altura de un pino y responde si un pino de ese peso le sirve a la fábrica.
+> * Definí la función ```pesoPino```, recibe la altura de un pino y devuelve su peso.
+> * Definí la función ```esPesoUtil```, recibe un peso en kg y  responde si un pino de ese peso le sirve a la fábrica
+> * Definí la función ```sirvePino```, recibe la altura de un pino y responde si un pino de ese peso le sirve a la fábrica.
 > 
-> Como condimiento: definir `sirvePino` **usando composición**
+> Como condimiento: definí `sirvePino` **usando composición**
