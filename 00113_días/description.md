@@ -11,11 +11,11 @@ Definí las siguientes funciones que reciben los valores de los tres días, y no
 Ejemplo:
 
 ```haskell
-> diasParejos 110 98 100
+ム diasParejos 110 98 100
 True
 ```
 
 ```haskell
-> diasNormales 1 200 500
+ム diasNormales 1 200 500
 False
 ```
