@@ -1,4 +1,4 @@
-Definí una función ```siguiente```, que al invocarla con un número cualquiera me devuelve el resultado de sumar a ese número el 1.
+Definí una función `siguiente`, que al invocarla con un número cualquiera me devuelve el resultado de sumar a ese número el 1.
 
 ```haskell
 ム siguiente 3
