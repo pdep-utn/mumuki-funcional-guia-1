@@ -1,7 +1,7 @@
-Definí la función ```fahrToCelsius/1```, que a partir de una cantidad de grados en escala Fahrenheit, devuelve el equivalente en escala Celsius.
+Definí la función `fahrToCelsius` que, a partir de una cantidad de grados en escala Fahrenheit, devuelve el equivalente en escala Celsius.
 
-```
-Main> fahrToCelsius 212
+```haskell
+ム fahrToCelsius 212
 100
 ```
 
