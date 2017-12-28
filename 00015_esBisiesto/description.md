@@ -1,4 +1,4 @@
-Definí la función `esBisiesto` que indica si un año es bisiesto.
+Definí la función `esBisiesto` que indica si un año tiene 366 días.
 
 Un año es bisiesto si:
 
