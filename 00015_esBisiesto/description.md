@@ -7,5 +7,7 @@ Un año es bisiesto si:
 
 **Nota**: Resolverlo reutilizando tanto como sea posible la función ```esMultiploDe``` (asumir que esta función existe, no definirla nuevamente), que dice si el primer argumento es multiplo del segundo. No usar las funciones ***mod*** ni ***rem***.
 
+ ```haskell
  Main> esBisiesto 2000
  True
+```
