@@ -1,12 +1,9 @@
-﻿Definir una función **esNumeroPositivo**, que aplicando a la función con un número
-cualquiera me diga si el número es positivo
+Definí una función **esNumeroPositivo**, que aplicando a la función con un número cualquiera me diga si el número es positivo
 
 ```haskell
-Main> esNumeroPositivo (-5)
+ム esNumeroPositivo (-5)
 False
 
-Main> esNumeroPositivo 0.99
+ム esNumeroPositivo 0.99
 True
 ```
-
-**Nota**: No usar guardas
