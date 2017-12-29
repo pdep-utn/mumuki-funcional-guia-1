@@ -1,1 +1,1 @@
-fahrToCelsius = (/9).(*5).(flip (-) 32)
+fahrToCelsius temperatura = (temperatura - 32)  * 5 / 9

@@ -7,4 +7,4 @@ Ejemplo:
 False
 ```
 
-**Nota**: Asumir que ya existe una función `fahrToCelsius` que convierte una temperatura Fahrenheit en Celsius. **Usarla sin definirla**
+Asumí que ya existe una función `fahrToCelsius` que convierte una temperatura Fahrenheit en Celsius. 
