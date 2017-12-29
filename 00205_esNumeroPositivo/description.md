@@ -1,4 +1,4 @@
-Definí una función **esNumeroPositivo**, que aplicando a la función con un número cualquiera me diga si el número es positivo.
+Definí una función `esNumeroPositivo`, que aplicando a la función con un número cualquiera me diga si el número es positivo.
 
 ```haskell
 ム esNumeroPositivo (-5)
