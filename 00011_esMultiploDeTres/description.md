@@ -3,4 +3,6 @@ Definí la función `esMultiploDeTres` que dice si un número es múltiplo de 3.
 ```haskell
 ム esMultiploDeTres 9
 True
+ム esMultiploDeTres 4
+False
 ```
