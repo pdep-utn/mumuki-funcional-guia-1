@@ -6,7 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: sirvePino
   inspection: HasBinding
-- binding: sirvePino
-  inspection: HasComposition
 - binding: "*"
   inspection: Except:HasRedundantParameter

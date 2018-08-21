@@ -11,4 +11,4 @@ Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven �
 > * Definí la función `esPesoUtil`, recibe un peso en kg y  responde si un pino de ese peso le sirve a la fábrica
 > * Definí la función `sirvePino`, recibe la altura de un pino y responde si un pino de ese peso le sirve a la fábrica.
 > 
-> Como condimiento: definí `sirvePino` **usando composición**
+> Como condimiento: definí `sirvePino` **usando composición** de las funciones `pesoPino` y `esPesoUtil`.
