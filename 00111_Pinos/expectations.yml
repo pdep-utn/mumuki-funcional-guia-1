@@ -8,9 +8,5 @@ expectations:
   inspection: HasBinding
 - binding: sirvePino
   inspection: HasComposition
-- binding: pesoPino
-  inspection: Not:HasConditional
-- binding: sirvePino
-  inspection: Not:HasConditional
 - binding: "*"
   inspection: Except:HasRedundantParameter
