@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: haceFrioF
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: haceFrioF
   inspection: HasBinding
-- binding: haceFrioF
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: haceFrioF
   inspection: HasUsage:fahrToCelsius
-- binding: fahrToCelsius
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: fahrToCelsius
   inspection: Not:HasBinding

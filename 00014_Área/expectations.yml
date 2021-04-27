@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: area
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: area
   inspection: HasBinding
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

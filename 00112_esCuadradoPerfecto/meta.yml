@@ -1,15 +1,10 @@
 ---
-tags:
-- pdep
-- guia1
-- basico
-- aritmetica
-- recursividad
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem
 extra_visible: false
-teacher_info: ''
 manual_evaluation: false
 choices: []
 name: esCuadradoPerfecto
