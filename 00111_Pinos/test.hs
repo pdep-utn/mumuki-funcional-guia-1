@@ -3,7 +3,7 @@ describe "pinos" $ do
     it "un pino de 2 metros pesa 600 kg" $ do
       pesoPino 2  `shouldBe` 600
 
-    it "un pino de 5 metros pesa 1300 kg" $ do
+    it "un pino de 5 metros pesa 1300 kg." $ do
       pesoPino 5  `shouldBe` 1300
 
   describe "esPesoUtil" $ do

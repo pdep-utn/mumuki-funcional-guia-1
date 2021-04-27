@@ -1,1 +1,1 @@
-Usar max y min
+Usar max y min.
